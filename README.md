@@ -18,6 +18,7 @@
   <img align="center" alt="Julio-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img align="center" alt="Julio-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Julio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Julio-Csharp" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cypress_icon_130654.png">
   <img align="right" alt="Julio-pic" height="150" style="border-radius: 80px;" src="https://cdn.discordapp.com/attachments/978845148781887581/978854163897266206/julio.png"/>
 </div>
   
